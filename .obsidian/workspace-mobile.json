@@ -138,9 +138,32 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "6492b44f018fb9a0",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "GitHub.md",
+    "WorkFlow no Android.md",
+    "Travelling Salesman Problem (TSP).md",
+    "Pasted image 20230830115502.png",
+    "Minimum spanning tree.png",
+    "Minimum Spanning Tree (MST).md",
+    "/GitHub.md",
+    "GLPK solution of a travelling salesman problem.png",
+    "Excalidraw/WorkFlow_com_Android.excalidraw.md",
+    "/WorkFlow no Android.md",
+    "/Travelling Salesman Problem (TSP).md",
+    "/TBO/Trabalho 1.md",
+    "/Pasted image 20230830115502.png",
+    "/Obsidian.md",
+    "/Minimum spanning tree.png",
+    "/Minimum Spanning Tree (MST).md",
+    "/GLPK solution of a travelling salesman problem.png",
+    "/Excalidraw/WorkFlow_com_Android.excalidraw.md",
+    "/Daily Notes/30-08-2023.md",
+    "Excalidraw",
+    "/Excalidraw"
+  ]
 }
