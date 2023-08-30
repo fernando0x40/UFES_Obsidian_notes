@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f339ac7b9377ca07",
+        "id": "5752154d76b0166f",
         "type": "tabs",
         "children": [
           {
-            "id": "a1b2ec39c11579a6",
+            "id": "136617ff3d89074b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -145,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,10 +164,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a1b2ec39c11579a6",
+  "active": "136617ff3d89074b",
   "lastOpenFiles": [
-    "Daily Notes/29-08-2023.md",
     "Daily Notes/30-08-2023.md",
+    "Daily Notes/29-08-2023.md",
     "Obsidian.md",
     "Basic Markdown Elements Cheat Sheet.png",
     "repositório.md",
