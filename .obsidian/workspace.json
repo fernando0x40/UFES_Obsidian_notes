@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a493dbe101a810e8",
+        "id": "d27a293a6a98c234",
         "type": "tabs",
         "children": [
           {
-            "id": "30c3b1341aa41113",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TBO/Trabalho 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a17fa6579e96799",
+            "id": "2138e5c3b6bc88a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,91 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "45a0a86742722606",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travelling Salesman Problem (TSP).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed222f99af79bd7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Minimum Spanning Tree (MST).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0deb6f0a8808a9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Minimum Spanning Tree (MST).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba9008474bb44ba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Minimum Spanning Tree (MST).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a95ac5c454a9de7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travelling Salesman Problem (TSP).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a70c524cc879ec21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Travelling Salesman Problem (TSP).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71f36d8124d5ac11",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "GLPK solution of a travelling salesman problem.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,15 +164,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4a17fa6579e96799",
+  "active": "2138e5c3b6bc88a2",
   "lastOpenFiles": [
+    "TBO/Trabalho 1.md",
     "Daily Notes/04-09-2023.md",
     "Travelling Salesman Problem (TSP).md",
-    "TBO/Trabalho 1.md",
     "Minimum Spanning Tree (MST).md",
+    "GLPK solution of a travelling salesman problem.png",
     "Minimum spanning tree.png",
     "Pasted image 20230830115502.png",
-    "GLPK solution of a travelling salesman problem.png",
     "Daily Notes/30-08-2023.md",
     "WorkFlow no Android.md",
     "Excalidraw/WorkFlow_com_Android.excalidraw.md",
