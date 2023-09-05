@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e04b39a089b13b50",
+        "id": "da54d46f059175b9",
         "type": "tabs",
         "children": [
           {
-            "id": "42b383b532dc7209",
+            "id": "3e0f5ff7de73b880",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,7 +164,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "42b383b532dc7209",
+  "active": "3e0f5ff7de73b880",
   "lastOpenFiles": [
     "Daily Notes/05-09-2023.md",
     "Daily Notes/04-09-2023.md",
