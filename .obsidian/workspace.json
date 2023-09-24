@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/24-09-2023.md",
+                "file": "TBO/Introdução à Algoritmos.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/24-09-2023.md",
+                "file": "TBO/Introdução à Algoritmos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/24-09-2023.md",
+                "file": "TBO/Introdução à Algoritmos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/24-09-2023.md"
+                "file": "TBO/Introdução à Algoritmos.md"
               }
             }
           },
@@ -189,8 +189,10 @@
   },
   "active": "a73011cbcd70ae5c",
   "lastOpenFiles": [
-    "Daily Notes/14-09-2023.md",
+    "Pasted image 20230924133644.png",
     "Daily Notes/24-09-2023.md",
+    "TBO/Introdução à Algoritmos.md",
+    "Daily Notes/14-09-2023.md",
     "Daily Notes/11-09-2023.md",
     "TBO/Trabalho 1.md",
     "Daily Notes/07-09-2023.md",
